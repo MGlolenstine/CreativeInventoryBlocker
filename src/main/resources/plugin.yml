@@ -1,0 +1,6 @@
+name: CreativeChestBlocker
+version: ${project.version}
+main: xyz.mglolenstine.creativechestblocker.Creativechestblocker
+api-version: 1.13
+authors: [MGlolenstine]
+description: Closes the inventory if a player opens it in creative game mode.
